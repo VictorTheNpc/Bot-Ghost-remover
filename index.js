@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sttaffando","Per questo server"];
+const statusMessages = ["ㅤ","ㅤ"];
 
 
 let currentIndex = 0;
