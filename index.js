@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ㅤ","ㅤ"];
+const statusMessages = ["Creato da VictorTheNpc","Creato da VictorTheNpc"];
 
 
 let currentIndex = 0;
