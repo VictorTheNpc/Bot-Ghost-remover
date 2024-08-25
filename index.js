@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot ufficiale della VT","Programmato da VictorTheNpc"];
+const statusMessages = ["EchoSMP's bot","EchoSMP's bot"];
 
 
 let currentIndex = 0;
