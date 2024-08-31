@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["EchoSMP's bot","EchoSMP's bot"];
+const statusMessages = ["Programmato da NPC","Programmato da NPC"];
 
 
 let currentIndex = 0;
